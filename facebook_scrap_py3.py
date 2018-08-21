@@ -102,7 +102,7 @@ def main(page):
 	#with open('%s_comment_data.txt'% page ,'a') as file:
 	#
 	APP_ID = "1257325031043360"
-	APP_Secret = "d69346c2e19e86af6756e956906ca2fa" # DO NOT SHARE WITH ANYONE!
+	APP_Secret = "Add yours " # DO NOT SHARE WITH ANYONE!
 
 	#graph_url1 = "https://graph.facebook.com/nytimes/?key=value&access_token=" + APP_ID + "|" + APP_Secret
 	graph_url = "https://graph.facebook.com/"
